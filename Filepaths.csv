@@ -1,0 +1,4 @@
+﻿File,Path,Description
+Divided,C:\yourpath\here,"Resampled and divided files go here (e.g. from ""Divided.zip"")"
+Demographics,C:\yourpath\here,Demographics data gets put into here. 
+Divided_QC,C:\yourpath\here,"QC passed files here (e.g. from ""Quality_checked.zip"")"
