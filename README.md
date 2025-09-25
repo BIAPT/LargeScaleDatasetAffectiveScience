@@ -7,7 +7,7 @@ QC & preprocessing scripts: Clean signals, handle baseline/video conditions, nor
 
 ML pipeline: Trains Random Forest, XGBoost, SVM, and a VotingClassifier ensemble on pre-extracted features. Performs feature selection (RFE), SMOTE balancing, baseline normalization, train/validation/test splits, and evaluation with classification reports, confusion matrices, and bootstrapped F1 confidence intervals.
 
-A Filepaths.csv is included for easy configuration of input/output directories.
+A Filepaths.csv is included for easy configuration of input/output directories. Participant_videos.csv also provided to help with cleaning code.
 
 This work is part of Girgis et al. (in submission) and supports reproducible research via OSF.
 
